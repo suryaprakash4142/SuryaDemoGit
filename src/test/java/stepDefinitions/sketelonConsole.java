@@ -14,6 +14,10 @@ public class sketelonConsole {
 	@Given("user must have the url present")
 	public void test01() {
 		System.out.println("010101010101001010101");
+
+		System.out.println("*******************************");
+
+		System.out.println("1111111111111111111111111111111");
 	}
 
 	@When("credentials are used for navigating to the homepage")
@@ -24,6 +28,8 @@ public class sketelonConsole {
 	@Then("will land you to the screen")
 	public void test03() {
 		System.out.println("03030303030303030303030");
+
+		System.out.println("0333333333333333333333333333333");
 	}
 
 	@Given("user is on common login page")
