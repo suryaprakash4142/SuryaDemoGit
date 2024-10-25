@@ -16,8 +16,8 @@ public class sketelonConsole {
 		System.out.println("010101010101001010101");
 
 		System.out.println("*******************************");
-
-		System.out.println("1111111111111111111111111111111");
+		
+		System.out.println("Surya new git commit");
 	}
 
 	@When("credentials are used for navigating to the homepage")
@@ -42,6 +42,8 @@ public class sketelonConsole {
 	public void user_navigated_to_the_main_page() {
 
 		System.out.println("user navigated to the main page02");
+
+		System.out.println("Surya new git commit");
 	}
 
 	@Then("user successfully switched to home page")
@@ -55,6 +57,8 @@ public class sketelonConsole {
 
 		System.out.println("products are displaying04");
 		System.out.println("***************************");
+
+		System.out.println("Surya new git commit");
 	}
 
 //this is 02 scenario in features file (this is only for string variables)
